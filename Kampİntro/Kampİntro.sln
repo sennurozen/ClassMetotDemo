@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kampİntro", "Kampİntro\Kampİntro.csproj", "{66FCD314-ED38-4FD9-9FCE-5D386DB578FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler", "Donguler\Donguler.csproj", "{D3D2EA41-AE66-4F5C-AC31-8F27B13F9A0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{CAACB5B8-0CAD-4516-9377-6A8BE1ABECCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FCD314-ED38-4FD9-9FCE-5D386DB578FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FCD314-ED38-4FD9-9FCE-5D386DB578FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FCD314-ED38-4FD9-9FCE-5D386DB578FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FCD314-ED38-4FD9-9FCE-5D386DB578FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D2EA41-AE66-4F5C-AC31-8F27B13F9A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D2EA41-AE66-4F5C-AC31-8F27B13F9A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D2EA41-AE66-4F5C-AC31-8F27B13F9A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D2EA41-AE66-4F5C-AC31-8F27B13F9A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAACB5B8-0CAD-4516-9377-6A8BE1ABECCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAACB5B8-0CAD-4516-9377-6A8BE1ABECCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAACB5B8-0CAD-4516-9377-6A8BE1ABECCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAACB5B8-0CAD-4516-9377-6A8BE1ABECCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C2C726C-012C-421C-808A-A26CF249DABA}
+	EndGlobalSection
+EndGlobal
