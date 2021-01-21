@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\sennu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\sennu\\.nuget\\packages"
+    ]
+  }
+}

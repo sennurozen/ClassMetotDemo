@@ -1,0 +1,5 @@
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\publish\ClassMetotDemo.exe
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\publish\ClassMetotDemo.dll
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\publish\ClassMetotDemo.deps.json
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\publish\ClassMetotDemo.runtimeconfig.json
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\publish\ClassMetotDemo.pdb

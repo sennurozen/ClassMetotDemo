@@ -1,0 +1,17 @@
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.exe
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.deps.json
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.runtimeconfig.json
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.runtimeconfig.dev.json
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.csprojAssemblyReference.cache
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.AssemblyInfo.cs
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.dll
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.pdb
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.genruntimeconfig.cache
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.dll.manifest
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\bin\Release\netcoreapp3.1\ClassMetotDemo.application
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.dll.manifest
+C:\Users\sennu\source\repos\ClassMetotDemo\ClassMetotDemo\obj\Release\netcoreapp3.1\ClassMetotDemo.application
