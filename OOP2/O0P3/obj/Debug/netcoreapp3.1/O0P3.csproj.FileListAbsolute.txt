@@ -1,0 +1,13 @@
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.exe
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.deps.json
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.runtimeconfig.json
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.runtimeconfig.dev.json
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.dll
+C:\Users\sennu\source\repos\OOP2\O0P3\bin\Debug\netcoreapp3.1\O0P3.pdb
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.AssemblyInfoInputs.cache
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.AssemblyInfo.cs
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.csproj.CoreCompileInputs.cache
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.dll
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.pdb
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.genruntimeconfig.cache
+C:\Users\sennu\source\repos\OOP2\O0P3\obj\Debug\netcoreapp3.1\O0P3.csprojAssemblyReference.cache
