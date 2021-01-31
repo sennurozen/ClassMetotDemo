@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QOijYss7Y93n35zbpftAL9Hfp6zI3JSrivnco8HuFC/QtbpkJhQTa/dJLK/FYyxiWPFgmnXSoqn37oyDZTsn6w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sennu\\source\\repos\\ReCapProject\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sennu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\sennu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
