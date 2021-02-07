@@ -12,3 +12,5 @@ C:\Users\sennu\source\repos\MyFinalProject\Business\obj\Debug\netstandard2.0\Bus
 C:\Users\sennu\source\repos\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
 C:\Users\sennu\source\repos\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.dll
 C:\Users\sennu\source\repos\MyFinalProject\Business\obj\Debug\netstandard2.0\Business.pdb
+C:\Users\sennu\source\repos\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\sennu\source\repos\MyFinalProject\Business\bin\Debug\netstandard2.0\Core.pdb
